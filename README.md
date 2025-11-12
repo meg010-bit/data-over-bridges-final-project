@@ -16,4 +16,9 @@ POGOH Station Locations
 POGOH is a bikeshare stations throughout Pittsburgh with multiple rental stations, designed for accessible, affordable, and convenient transportation. The dataset houses station locations and total number of bike docks as well as the station ID.
 https://data.wprdc.org/dataset/station-locations/resource/ef3727f0-87ee-42f3-92e4-25d7b1d7efb0
 
+City of Pittsburgh Trees
+A dataset of street tress across Pittsburgh with details like species, size, location, and environmental benefits. The dataset can be used to analyze urban biodiversity, air quality impact, and sustainability by neighborhood.
+https://data.wprdc.org/dataset/city-trees
+
+
 Overview: A project determining the best neighborhood in Pittsburgh according to its sustainability through the lens of self-sufficiency, accessibility, biodiversity.
